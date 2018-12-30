@@ -2,4 +2,5 @@
 
 members = [
     "valley_counter",
+    "jumping_clouds",
 ]
